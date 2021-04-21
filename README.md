@@ -38,6 +38,31 @@
 * Viscosidades extensionais.
 * A transição sólido-fluido.
   ### Introdução ao Formalismo Lagrangiano.
+* As equações do movimento.
+
+## Fluidos Estáticos
+  ### As equações da estática.
+  ### Equilíbrio em um Campo Gravitacional.
+* Teorema de Pascal.
+* Atmosfera.
+* Um líquido estratificado entre duas placas horizontais.
+* Fluidos autogravitantes rotativos.
+  ### Algumas Propriedades da Força de Pressão Resultante
+* Teorema de Arquimedes.
+* O Centro de empuxo.
+* A pressão total em uma superfície.
+  ### Equilíbrio com Tensão de Superfície
+* Algumas figuras específicas de equilíbrio.
+* Equilíbrio de líquido umedecendo um sólido.
+
+## Ondas em Fluidos
+  ### Ideias sobre Perturbações
+  ### Sons
+  ### Ondas de Superfície
+  ### Ondas Gravitacionais (Ondas Gravitacionais Internas)
+  ### Ondas Descontínuas
+  ### Ondas Solitárias
+  
 
 # Referências Bibliográficas
 
