@@ -2,7 +2,7 @@
 
 ### Esse repositório será dedicado para o estudo da dinâmica dos fluidos. Haverá um material teórico (disponível para a leitura) e também um conteúdo executável (aplicações).
 
-https://img.shields.io/github/stars/leonardoSaaads/Dinamica_dos_Fluidos?style=for-the-badge
+![Badge](https://img.shields.io/github/stars/leonardoSaaads/Dinamica_dos_Fluidos?style=for-the-badge)
 
 ## FUNDAMENTOS:
   ### [INTRODUÇÃO](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/Introdu%C3%A7%C3%A3o)
