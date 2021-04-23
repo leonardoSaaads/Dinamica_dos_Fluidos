@@ -1,4 +1,4 @@
-<img scr="https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/banner.jpg" width="1000" height="300">
+![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/banner.jpg)
 Esse repositório será dedicado para o estudo da dinâmica dos fluidos. Haverá um material teórico (disponível para a leitura) e também um conteúdo executável (aplicações).
 
 ## FUNDAMENTOS:
