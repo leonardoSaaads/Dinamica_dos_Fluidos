@@ -59,7 +59,7 @@
 * Algumas figuras específicas de equilíbrio.
 * Equilíbrio de líquido umedecendo um sólido.
 
-## Ondas em Fluidos
+![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Ondas%20-%20banner.gif)
   ### Ideias sobre Perturbações
   ### Sons
   ### Ondas de Superfície
