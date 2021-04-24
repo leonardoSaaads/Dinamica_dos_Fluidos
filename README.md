@@ -44,7 +44,7 @@
   ### Introdução ao Formalismo Lagrangiano.
 * As equações do movimento.
 
-## Fluidos Estáticos
+![](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/blob/main/Imagens/Est%C3%A1tica%20-%20banner.gif?raw=true)
   ### As equações da estática.
   ### Equilíbrio em um Campo Gravitacional.
 * Teorema de Pascal.
