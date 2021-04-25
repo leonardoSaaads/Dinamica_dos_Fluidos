@@ -6,68 +6,73 @@
 ![Badge](https://img.shields.io/github/forks/leonardoSaaads/Dinamica_dos_Fluidos?style=for-the-badge)
 
 ## FUNDAMENTOS:
-  ### [INTRODUÇÃO](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/Introdu%C3%A7%C3%A3o)
+### [Introdução](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/Introdu%C3%A7%C3%A3o)
 * Perspectiva histórica, Conceitos iniciais, Visão lagrangiana e euleriana.
 * Derivada material.
 * Distorção de um elemento fluido.
 * Fluidos incompressíveis.
 * Função de fluxo.
 * Evolução de uma quantidade integral transportada pelo fluido.
-  ### As Leis do Movimento de Fluidos
+### [As Leis do Movimento de Fluidos](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/As%20Leis%20do%20Movimento)
 * Conservação da massa.
 * Conservação do momento.
 * Conservação da energia.
 * Relações conservativas.
-  ### As Leis Reológicas
+### As Leis Reológicas
 * Pressões de estresse.
 * Fluido perfeito.
 * Fluidos newtonianos.
-  ### Comportamento Térmico
+### Comportamento Térmico
 * A densidade de superfície do fluxo de calor.
 * As equações de energia interna e entropia.
-  ### Termodinâmica
+### Termodinâmica
 * Gás ideal.
 * Líquidos.
 * Fluidos barotrópicos.
-  ### Condições de Contorno
+### Condições de Contorno
 * Condições de limite no campo de velocidade.
 * Condições de limite de temperatura.
 * Tensão superficial.
 * Condições iniciais
-  ### Mais sobre as Leis Reológicas: Fluidos Não Newtonianos
+### Mais sobre as Leis Reológicas: Fluidos Não Newtonianos
 * Os limites da reologia newtoniana.
 * As leis reológicas não newtonianas.
 * Viscoelasticidade linear.
 * Os efeitos não lineares.
 * Viscosidades extensionais.
 * A transição sólido-fluido.
-  ### Introdução ao Formalismo Lagrangiano.
+### Introdução ao Formalismo Lagrangiano.
 * As equações do movimento.
 
 ![](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/blob/main/Imagens/Est%C3%A1tica%20-%20banner.gif?raw=true)
-  ### As equações da estática.
-  ### Equilíbrio em um Campo Gravitacional.
+### As equações da estática.
+### Equilíbrio em um Campo Gravitacional.
 * Teorema de Pascal.
 * Atmosfera.
 * Um líquido estratificado entre duas placas horizontais.
 * Fluidos autogravitantes rotativos.
-  ### Algumas Propriedades da Força de Pressão Resultante
+### Algumas Propriedades da Força de Pressão Resultante
 * Teorema de Arquimedes.
 * O Centro de empuxo.
 * A pressão total em uma superfície.
-  ### Equilíbrio com Tensão de Superfície
+### Equilíbrio com Tensão de Superfície
 * Algumas figuras específicas de equilíbrio.
 * Equilíbrio de líquido umedecendo um sólido.
 
 ![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Ondas%20-%20banner.gif)
-  ### Ideias sobre Perturbações
-  ### Sons
-  ### Ondas de Superfície
-  ### Ondas Gravitacionais (Ondas Gravitacionais Internas)
-  ### Ondas Descontínuas
-  ### Ondas Solitárias
-  
+### Ideias sobre Perturbações
+### Sons
+### Ondas de Superfície
+### Ondas Gravitacionais (Ondas Gravitacionais Internas)
+### Ondas Descontínuas
+### Ondas Solitárias
+ 
+![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Simula%C3%A7%C3%A3o%20-%20banner.gif)
+### Introdução para simulações (prévia)
+### Documentação p/ cada caso
+### Códigos
 
-# Referências Bibliográficas
+# Referências Bibliográficas:
 
 REFERÊNCIA: RIEUTORD, Michel. Fluid Dynamics An Introduction. Masson, France: Springer, 1997.
+REFERÊNCIA: Wikipédia.com: Fluidos Incompressíveis, Equação da conservação do Momento.
