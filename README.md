@@ -18,7 +18,7 @@
 * Conservação do momento.
 * Conservação da energia.
 * Relações conservativas.
-### As Leis Reológicas
+### [As Leis Reológicas](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/Leis%20Reol%C3%B3gicas)
 * Pressões de estresse.
 * Fluido perfeito.
 * Fluidos newtonianos.
@@ -69,10 +69,11 @@
  
 ![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Simula%C3%A7%C3%A3o%20-%20banner.gif)
 ### Introdução para simulações (prévia)
-### Documentação p/ cada caso
+### Documentação (casos)
 ### Códigos
 
 # Referências Bibliográficas:
 
 REFERÊNCIA: RIEUTORD, Michel. Fluid Dynamics An Introduction. Masson, France: Springer, 1997.
+
 REFERÊNCIA: Wikipédia.com: Fluidos Incompressíveis, Equação da conservação do Momento.
