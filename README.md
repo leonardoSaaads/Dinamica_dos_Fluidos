@@ -75,6 +75,10 @@
 ### Introdução para simulações (prévia)
 * Artigos
 ### Documentação (casos)
+* Fluidos incompressíveis
+* Pressão x Altura (fluido estático)
+* Barragem (fluidos estático)
+* Operador Neural de Fourier para simulações de fluidos(2D, 3D)
 ### Códigos
 
 # Referências Bibliográficas:
