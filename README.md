@@ -25,7 +25,7 @@
 ### Comportamento Térmico
 * A densidade de superfície do fluxo de calor.
 * As equações de energia interna e entropia.
-### Termodinâmica
+### [Termodinâmica](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/Termodin%C3%A2mica)
 * Gás ideal.
 * Líquidos.
 * Fluidos barotrópicos.
@@ -61,14 +61,19 @@
 
 ![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Ondas%20-%20banner.gif)
 ### Ideias sobre Perturbações
+* Equação de uma perturbação.
+* Análise de uma pertubação infinitesimal.
+* Perturbações com amplitude finita.
+* Ondas e Instabilidade
 ### Sons
+* Equação de Propagação
 ### Ondas de Superfície
-### Ondas Gravitacionais (Ondas Gravitacionais Internas)
-### Ondas Descontínuas
-### Ondas Solitárias
+* Ondas de gravidade de superfície
+### Ondas Gravitacionais (Ondas Internas)
  
 ![](https://raw.githubusercontent.com/leonardoSaaads/Dinamica_dos_Fluidos/main/Imagens/Simula%C3%A7%C3%A3o%20-%20banner.gif)
 ### Introdução para simulações (prévia)
+* Artigos
 ### Documentação (casos)
 ### Códigos
 
