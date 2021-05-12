@@ -45,7 +45,7 @@
 * As equações do movimento.
 
 ![](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/blob/main/Imagens/Est%C3%A1tica%20-%20banner.gif?raw=true)
-### As equações da estática.
+### [As equações da estática](https://github.com/leonardoSaaads/Dinamica_dos_Fluidos/tree/main/As%20equa%C3%A7%C3%B5es%20da%20est%C3%A1tica)
 ### Equilíbrio em um Campo Gravitacional.
 * Teorema de Pascal.
 * Atmosfera.
